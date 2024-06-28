@@ -31,7 +31,7 @@ export default class DemoModal extends Component {
   <button
   {{on "click" this.toggle}}
 >
-  Open Modal
+  Frontile Modal
 </button>
 
 <Modal
